@@ -1,3 +1,12 @@
+Minhas soluções para a Piscina de Novembro de 2023.
+Abra um problema no github se encontrar algo incorreto.
+Se você gosta do meu trabalho e quer agradecer ou me incentivar a fazer mais, pode me pagar um café!
+Contribua para o meu fundo de café com qualquer quantia que você se sinta confortável em pagar.
+https://www.github.com/fausto18/42luanda
+
+Se você tiver alguma dica que gostaria de ouvir, qualquer feedback será apreciado. Obrigado.
+Don't Copy, Learn.
+
 LEIA ISSO ANTES DE PASSAR NO EXAME
 
 Fazendo login e configurando um exame
