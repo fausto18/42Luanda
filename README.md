@@ -12,7 +12,7 @@ LEIA ISSO ANTES DE PASSAR NO EXAME
 Fazendo login e configurando um exame
 1-Faça login com exame/exame na tela de login
 2-Abra um terminal e digite o nome de usuário kinit e sua senha após o prompt
-3-Digite examshell em um terminal para começar
+3-Digite examshell em um terminal para começar.
 
 Durante o exame
 
